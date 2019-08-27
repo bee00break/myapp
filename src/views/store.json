@@ -1,0 +1,92 @@
+{
+  "store1":{
+    "name": "天然温泉・満天の湯",
+    "rate": 0,
+    "favorite": false,
+    "link": "https://mantennoyu.com/"
+  },
+  "store2":{
+    "name": "竜泉寺の湯 横濱鶴ヶ峰店",
+    "rate": 0,
+    "favorite": false,
+    "link": "https://ryusenjinoyu.com/y_tsurugamine/"
+  },
+  "store3":{
+    "name": "すすき野 湯けむりの里",
+    "rate": 0,
+    "favorite": false,
+    "link": "https://www.yukemurinosato.com/susukino/"
+  },
+  "store4":{
+    "name": "港北の湯",
+    "rate": 0,
+    "favorite": false,
+    "link": "ttps://kohokunoyu.com"
+  },
+  "store5":{
+    "name": "綱島源泉 湯けむりの庄",
+    "rate": 0,
+    "favorite": false,
+    "link": "https://www.yukemurinosato.com/tsunashima/"
+  },
+  "store6":{
+    "name": "RAKU SPA 鶴見",
+    "rate": 0,
+    "favorite": false,
+    "link": "http://rakuspa.com/tsurumi/"
+  },
+  "store7":{
+    "name": "おふろの王様 瀬谷店",
+    "rate": 0,
+    "favorite": false,
+    "link": "http://www.kokochiyu.com/seya/"
+  },
+  "store8":{
+    "name": "極楽湯 横浜芹が谷店",
+    "rate": 0,
+    "favorite": false,
+    "link": "https://www.gokurakuyu.ne.jp/tempo/serigaya/"
+  },
+  "store9":{
+    "name": "宮前平源泉 湯けむりの庄",
+    "rate": 0,
+    "favorite": false,
+    "link": "https://www.yukemurinosato.com/miyamaedaira/"
+  },
+  "store10":{
+    "name": "おふろの王様 港南台店",
+    "rate": 0,
+    "favorite": false,
+    "link": "https://www.ousama2603.com/shop/kounandai/index.html"
+  },
+  "store11":{
+    "name": "野天湯元 湯快爽快 たや",
+    "rate": 0,
+    "favorite": false,
+    "link": "https://www.yukaisoukai.com/tay/"
+  },
+  "store12":{
+    "name": "溝口温泉 喜楽里",
+    "rate": 0,
+    "favorite": false,
+    "link": "http://www.yurakirari.com/kirari/mizonokuchi/"
+  },
+  "store13":{
+    "name": "よみうりランド 丘の湯",
+    "rate": 0,
+    "favorite": false,
+    "link": "http://www.yomiuriland.com/okanoyu/"
+  },
+  "store14":{
+    "name": "竜泉寺の湯 八王子みなみ野店",
+    "rate": 0,
+    "favorite": false,
+    "link": "https://hachioji.ryusenjinoyu.com/"
+  },
+  "store15":{
+    "name": "港北天然温泉 ゆったりCOCO",
+    "rate": 0,
+    "favorite": false,
+    "link": "https://www.sportsoasis.co.jp/coco/"
+  }
+}

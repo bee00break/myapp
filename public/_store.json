@@ -1,0 +1,22 @@
+{
+  "aaa":{
+    "rate": 0,
+    "favorite": false
+  },
+  "bbb":{
+    "rate": 0,
+    "favorite": false
+  },
+  "ccc":{
+    "rate": 0,
+    "favorite": false
+  },
+  "ddd":{
+    "rate": 0,
+    "favorite": false
+  },
+  "eee":{
+    "rate": 0,
+    "favorite": false
+  }
+}
