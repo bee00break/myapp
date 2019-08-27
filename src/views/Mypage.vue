@@ -185,10 +185,6 @@ export default {
       @content;
     }
   }
-  @mixin vw($size) {
-    font-size: ($size/2)*1px;
-    font-size: ($size/767*100)*1vw;
-  }
   .userName{
     font-size: 20px;
     margin-top: 30px;
